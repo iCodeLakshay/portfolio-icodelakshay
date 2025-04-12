@@ -20,7 +20,7 @@ const Footer = () => {
                         <a href="https://www.linkedin.com/in/icodelakshay/" target='_blank' rel="noopener noreferrer">
                             <FaLinkedin size={30} className={linkedInAnim} />
                         </a>
-                        <a href="mailto:lakshay.personal022@gmail.com" target='_blank' rel="noopener noreferrer">
+                        <a href="mailto:lakshaysaxena2217@gmail.com" target='_blank' rel="noopener noreferrer">
                             <FiMail size={30} className={mailAnim} />
                         </a>
                     </div>
